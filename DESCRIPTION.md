@@ -1,1 +1,1 @@
-Private modernized GNU Radio stereo FM matrix transmit/receive experiment flowgraphs.
+Modernized GNU Radio stereo FM matrix transmit/receive experiment flowgraphs.
