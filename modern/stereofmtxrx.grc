@@ -21,7 +21,7 @@
     </param>
     <param>
       <key>description</key>
-      <value>Modernized GNU Radio Companion flowgraph generated from archived stereofmtxrx.grc.</value>
+      <value>Modern GNU Radio Companion flowgraph validated for this repository.</value>
     </param>
     <param>
       <key>window_size</key>
@@ -222,7 +222,7 @@
     </param>
     <param>
       <key>file</key>
-      <value>/home/testmusic48KHz.wav</value>
+      <value>samples/testmusic48KHz.wav</value>
     </param>
     <param>
       <key>repeat</key>
@@ -417,7 +417,7 @@
     </param>
     <param>
       <key>file</key>
-      <value>/home/iqf.dat</value>
+      <value>samples/iqf.dat</value>
     </param>
     <param>
       <key>type</key>

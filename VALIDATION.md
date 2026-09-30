@@ -6,7 +6,7 @@ GNU Radio: 3.8.5.0
 
 - Result: OK
 
-## modern/stereofmtxrx.grc.legacy-modernized
+## modern/stereofmtxrx.variant.grc
 
 - Result: OK
 
